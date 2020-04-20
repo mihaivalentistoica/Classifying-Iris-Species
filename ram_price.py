@@ -1,5 +1,6 @@
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.linear_model import LinearRegression
+from sklearn.svm import SVC
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
